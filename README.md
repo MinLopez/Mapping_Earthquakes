@@ -21,3 +21,8 @@ Excludes all data although it is available.
 ![Resources/DarkLayer.png](Resources/DarkLayer.png) 
 
 *Map showing the same as above **earthquake data over 4.5** for the last week and **tectonic borders** with a dark map base*
+
+
+![Resources/Filters.png](Resources/Filters.png) 
+
+*Showing Available settings for layers with all 3 showing*
